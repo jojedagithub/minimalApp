@@ -1,5 +1,7 @@
 library(shiny)
 
 shinyUI(
-  fluidPage()
+  fluidPage(
+    p("Hola !!")
+  )
 )
